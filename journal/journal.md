@@ -81,6 +81,8 @@ My final decision was to use plastic for most of the sword design. For the hilt 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
+There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+
 To start off with I had to purchase the supplies to create my project. I visited Bunnings and purchased several materials & tools including a Jigsaw, Hacksaw, Drill, PVC piping, a large sheet of clear Acrylic, sandpaper, and RBG strip lights. I then visited Spotlight and purchased coloured foam, coloured paper, a hot glue gun, blackboard tape.
 
 Once I had everything I needed, I got started putting my project together. Firstly I cut down my PVC piping to about forearms length to use for the handle. I tried to form it into a more oval shape by heating it with a hairdryer and then pressing it down with my bodyweight and a large textbook, however this was unsuccessful and led to it being squished beyond use. Luckily I was able to cut several pieces from the large PVC pipe I purchased, and after a few attempts opted to just remain with a round handle. 
@@ -94,8 +96,6 @@ Next I went about cutting out the foam to decorate the project. I cut out two pi
 Next I set about attaching the blade to the sword. I placed it into the opening of the PVC attachment and squished in some pieces of rubber from an old phone case, along with 4 small wooden pegs and 2 plastic pegs. Once the sword was held in place I ran the RBG strip cables through the opening and down into the handle. I stripped the cables and attached them to a long thin battery pack I purchased from Jaycar. I tested that the connection was functional, and then put the battery pack into the handle and closed it with the cap. 
 
 Finally I ran the RBG strip up the back of the blade and taped it on with blackboard tape. I removed the battery pack again, placed in my batteries, and took a video. There is still some small adjustments and decorative aspects I would like to make to my project, but overall I am very happy with the outcome.
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
 ## Final code ##
 
