@@ -98,7 +98,7 @@ Finally I ran the RBG strip up the back of the blade and taped it on with blackb
 
 ![Image](Parts.jpg)
 
-![Image](Handguard.jpg.jpg)
+![Image](Handguard.jpg)
 
 ![Image](HandguardSanded.jpg)	
 
