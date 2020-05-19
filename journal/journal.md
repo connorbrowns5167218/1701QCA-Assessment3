@@ -120,6 +120,8 @@ Finally I ran the RBG strip up the back of the blade and taped it on with blackb
 
 ![Image](CompletedSword1.jpg)
 
+https://www.youtube.com/watch?v=31aYGYpOxZw&feature=youtu.be
+
 ## Final code ##
 
 This project required no coding to complete.
