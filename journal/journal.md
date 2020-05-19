@@ -96,6 +96,30 @@ Next I set about attaching the blade to the sword. I placed it into the opening 
 
 Finally I ran the RBG strip up the back of the blade and taped it on with blackboard tape. I removed the battery pack again, placed in my batteries, and took a video. There is still some small adjustments and decorative aspects I would like to make to my project, but overall I am very happy with the outcome.
 
+![Image](Parts.jpg)
+
+![Image](Handguard.jpg.jpg)
+
+![Image](HandguardSanded.jpg)	
+
+![Image](HandguardFoam.jpg)	
+
+![Image](Hanguard&handle.jpg)	
+
+![Image](HandleDesign.jpg)
+
+![Image](HandleDone.jpg)
+
+![Image](Wires.jpg)	
+
+![Image](WiresConnected.jpg)
+
+![Image](Circuit.jpg.jpg)
+
+![Image](SwordGlow.jpg)
+
+![Image](CompletedSword1.jpg)
+
 ## Final code ##
 
 This project required no coding to complete.
