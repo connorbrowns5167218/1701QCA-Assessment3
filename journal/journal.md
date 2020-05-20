@@ -124,13 +124,19 @@ Finally I ran the RBG strip up the back of the blade and taped it on with blackb
 
 ![Image](CompletedSword1.jpg)
 
-https://www.youtube.com/watch?v=31aYGYpOxZw&feature=youtu.be
+https://youtu.be/FfmzlaxbiqM
+
+## Final Code & Circuit ##
+
+![Image](Code.jpg)
+![Image](Circuit1.jpg)
+![Image](Circuit2.jpg)
+
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 I began by purchasing the required tools and materials needed to create my project. Afterwards I put the handle together with PVC piping, and cut out the handguard and blade from acrylic. Next I sanded the blade and handguard to be straight and even. After that I drilled small holes into the handguard to create one large hole in the center. I then sanded down the inside of this hole until I could fit it tightly on part of the PVC handle. Next I covered the handguard and handle with coloured foam to decorate it. Afterwards I fit the blade into the handle tightly with a few small objects. I then ran the RBG LED strip cable through the hole into the handle, and attached the battery pack. Finally I taped the LED strip up the back of the blade with blackboard tape and completed my project!
-
 
 ## Reflection ##
 
