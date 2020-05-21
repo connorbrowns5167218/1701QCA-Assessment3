@@ -7,42 +7,42 @@
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
-### Related project 1 - How to make a Wooden Katana from hardwood flooring // Woodworking###
+### Related project 1 - How to make a Wooden Katana from hardwood flooring // Woodworking
 
 https://www.youtube.com/watch?v=2nshBD9EbxE
 
 I intially intended to use this video as a guide to creating my prop sword, however without access to woodworking equipment I was unable to use wood as my material.
 
 
-### Related project 2 - Demon Slayer / Kimetsu No Yaiba LED Katana DIY kit ( TUTORIAL )###
+### Related project 2 - Demon Slayer / Kimetsu No Yaiba LED Katana DIY kit ( TUTORIAL )
 
 https://www.youtube.com/watch?v=WLo4PAFPa8E&t=334s
 
 This video is partially what inspired me to make a glowing sword prop using acrylic for the blade. My version will be much larger and complex.
 
 
-### Related project 3 - Light Katana (Making Of)###
+### Related project 3 - Light Katana (Making Of)
 
 https://www.youtube.com/watch?v=tGIxBVOW96M
 
 Similar to the previous related project this video also shows the making of a LED lit sword prop.
 
 
-### Related project 4 - The PVC Katana Build-Along###
+### Related project 4 - The PVC Katana Build-Along
 
 https://www.youtube.com/watch?v=IH5fNfSK_3U
 
 This project shows how to make a sword using PVC piping. I plan to only use PVC on my hilt and possibly handguard.
 
 
-### Related project 5 - Katana tutorial - Samurai sword [How to make props]###
+### Related project 5 - Katana tutorial - Samurai sword [How to make props]
 
 https://www.youtube.com/watch?v=5YrxfzWIe28
 
 This project uses EVA Foam to create a katana sword prop. This is my backup plan if Acrylic proves too difficult to use.
 
 
-### Related project 6 -【Demon Slayer】Making Shinazugawa Zenitsu's Nichirin Sword 【Kimetsu No Yaiba】A Black Blade きめつのやいば 鬼滅###
+### Related project 6 -【Demon Slayer】Making Shinazugawa Zenitsu's Nichirin Sword 【Kimetsu No Yaiba】A Black Blade きめつのやいば 鬼滅
 
 https://www.youtube.com/watch?v=wd_aL04VJHs&t=352s
 
